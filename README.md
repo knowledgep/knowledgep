@@ -22,7 +22,7 @@ I’m a lifelong learner with a growth mindset. I hold multiple certifications f
 📧 Email: knowledgepriscilla7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/priscilia-macamo)
 
-Portifolio:https://aistudio.google.com/app/
+Portifolio:https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_iML4JoyLOKdCF_F9sgBKRrE5S33I2qD%22%5D,%22action%22:%22open%22,%22userId%22:%22110672426826001928273%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
 
 📬 **Let's Connect**  
 I’m open to collaboration, mentorship, and entry-level opportunities in AI, cloud, and data roles. Let’s build something impactful together!

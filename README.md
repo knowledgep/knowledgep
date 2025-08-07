@@ -6,7 +6,7 @@ I’m a lifelong learner with a growth mindset. I hold multiple certifications f
 
 🎯 **Mission:** To innovate, lead, and inspire through technology.
 
-🏆 **Certifications**  
+🏆 Certifications**  
 - **Microsoft:** AI-900, PL-900, DP-600, MB-910, MB-920, SC-900  
 - **Cisco:** Introduction to Data Science, Cybersecurity, Data Analyst Cybersecurity  
 - **Great Learning:** 5+ professional courses in AI, Cloud & Data
@@ -18,9 +18,11 @@ I’m a lifelong learner with a growth mindset. I hold multiple certifications f
 - **Sentiment Analysis Dashboard** – Interactive analysis using Streamlit & Hugging Face  
 - **Bias Audit Toolkit** – ML fairness audit and ethics report
 
-🌐 **Socials & Contact**  
+🌐 Socials & Contact  
 📧 Email: knowledgepriscilla7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/priscilia-macamo)
+
 Portifolio:https://aistudio.google.com/app/
+
 📬 **Let's Connect**  
 I’m open to collaboration, mentorship, and entry-level opportunities in AI, cloud, and data roles. Let’s build something impactful together!
